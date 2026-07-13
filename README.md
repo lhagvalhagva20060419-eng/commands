@@ -10,3 +10,5 @@ gitiin commanduudiig ene repogoor tailbarlah bolnoo
 `git add -A` **Buh shine bolon oochlogson file uudiig stagelene**
 
 `git add [file.txt]` **file.txt file iig stagelene**
+
+[endees uzne uu](https://1234.mn)
