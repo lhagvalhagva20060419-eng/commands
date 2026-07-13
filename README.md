@@ -1,7 +1,10 @@
-## Git commands
+## Git commands :octocat::
 git commanduudiin tailvar tuslamjiin rebo 
 git ehnees ni duustal surgalt bolon suragchdiin tuslamjtaigaar hogjuulegdej bui
 gitiin commanduudiig ene repogoor tailbarlah bolnoo
+```
+print("hello world!")
+```
 
 ## Commands list
 
@@ -14,3 +17,5 @@ gitiin commanduudiig ene repogoor tailbarlah bolnoo
 `git add [file.txt]` **file.txt file iig stagelene**
 
 [endees uzne uu](https://1234.mn)
+
+
