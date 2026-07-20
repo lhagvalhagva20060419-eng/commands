@@ -16,6 +16,8 @@ print("hello world!")
 
 `git add [file.txt]` **file.txt file iig stagelene**
 
+`git remote prune  [remote_name]` **local deerh remote_name iig tseverlene**
+
 [endees uzne uu](https://1234.mn)
 
 
